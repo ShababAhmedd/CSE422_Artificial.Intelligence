@@ -1,5 +1,5 @@
 # CSE422_Artificial.Intelligence
-This repository contains all the lab assignments done in the CSE422 course of BracU.
+This repository contains all the lab assignments done in the CSE422 course of BracU. <br>
 [Lab Project](https://github.com/ShababAhmedd/CSE422_AI_Project)
 
 # Theory Resources
